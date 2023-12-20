@@ -1,0 +1,15 @@
+{
+  "name": "andrew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^10.4.0"
+  }
+}
